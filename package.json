@@ -1,0 +1,23 @@
+{
+  "name": "my-dapp",
+  "version": "0.1.0",
+  "description": "A Web3 application - composed with [N]skills",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "aster:guide": "echo \"See packages/aster-dex/README.md and docs/aster-dex-guidance.md\""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.3.0"
+  },
+  "packageManager": "pnpm@9.0.0",
+  "license": "MIT",
+  "keywords": [
+    "web3",
+    "dapp"
+  ]
+}
